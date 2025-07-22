@@ -20,14 +20,15 @@ This is a fully responsive and modern **React.js** application that showcases a 
 
 ---
 
-## 📸 Screenshots
-
-### 🌞 Light Mode View
-![Light Mode](screenshots/slider-light.png)
-
-> Replace `screenshots/slider-light.png` with your actual screenshot captured from your browser.
-
----
 
 ## 📁 Folder Structure
+/src
+├── component/
+│ └── SlidingCarousel.jsx # Carousel logic
+├── App.jsx # Main page with layout and all sections
+├── main.jsx # React entry point
+└── index.css / App.css # Optional styling
+
+
+
 
